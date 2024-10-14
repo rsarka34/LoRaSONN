@@ -12,6 +12,9 @@ Radio-frequency (RF) fingerprint identification leverages the inherent unique tr
 
 ![block_diag_updated](https://github.com/user-attachments/assets/fd2dd322-07d4-4f91-a44e-b17c5ca72320)
 
+# Performance
+<img width="703" alt="Screenshot 2024-10-15 at 1 27 14 AM" src="https://github.com/user-attachments/assets/4f3a33de-49af-443d-b2fc-fb154cc92040">
+
 
 # Cite as
 S. P. Singh, A. Roy and U. Satija, "LoRaSONN: A Novel Self-Operational Neural Network Learning Framework for RF-Fingerprint Identification of LoRa Devices," *2024 IEEE Wireless Communications and Networking Conference (WCNC)*, Dubai, United Arab Emirates, 2024, pp. 1-6, doi: 10.1109/WCNC57260.2024.10570890.
